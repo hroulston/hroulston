@@ -13,7 +13,7 @@
 ### Contact with me 📝
 
 <!-- [<img align="left" alt="bilgehangecici.site" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/2996/2996826.svg" />][website] -->
-[LinkedIn" height="30px" src="https://www.linkedin.com/in/heather-roulston/"/>]
+[LinkedIn](https://www.linkedin.com/in/heather-roulston/)
 <br />
 
 ---
@@ -46,7 +46,7 @@
 
 ---
 
-[LinkedIn" height="30px" src="https://www.linkedin.com/in/heather-roulston/"/>]
+[LinkedIn](https://www.linkedin.com/in/heather-roulston/)
 
 
 ----
